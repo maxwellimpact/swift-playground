@@ -1,0 +1,8 @@
+# Ignore Swift build folder/files
+.build
+
+# Ignore the downloaded Packages
+Packages
+
+# Ignore local system files
+.DS_Store
